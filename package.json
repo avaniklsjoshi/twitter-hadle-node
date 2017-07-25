@@ -1,0 +1,25 @@
+{
+  "name": "twitter-hadle-node",
+  "version": "1.0.0",
+  "description": "analyse twitter feeds.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaniklsjoshi/twitter-hadle-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/avaniklsjoshi/twitter-hadle-node#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "lokijs": "^1.5.0",
+    "nodemon": "^1.11.0",
+    "twitter": "^1.7.1"
+  }
+}
